@@ -52,3 +52,4 @@ adding, committing and pushing your work on a regular basis.
 Remember: Commit, and commit often!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remote-code-along' title='Git Remotes + GitHub Code-Along'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
+# my-repository
